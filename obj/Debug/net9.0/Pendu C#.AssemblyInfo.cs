@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pendu C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5738beac8f948a59e47cd51a1d255f0ae7eb161")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2635618c8a64d858d5b13815bebfef14ed0bcd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pendu C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pendu C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
