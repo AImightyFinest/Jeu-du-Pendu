@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\socis\\Documents\\Projet info\\Pendu C#\\Pendu C#.csproj",
+      "projectUniqueName": "C:\\Users\\socis\\Documents\\Projet info\\Jeu du Pendu\\Jeu-du-Pendu\\Pendu C#.csproj",
       "projectName": "Pendu C#",
-      "projectPath": "C:\\Users\\socis\\Documents\\Projet info\\Pendu C#\\Pendu C#.csproj",
+      "projectPath": "C:\\Users\\socis\\Documents\\Projet info\\Jeu du Pendu\\Jeu-du-Pendu\\Pendu C#.csproj",
       "packagesPath": "C:\\Users\\socis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\socis\\Documents\\Projet info\\Pendu C#\\obj\\",
+      "outputPath": "C:\\Users\\socis\\Documents\\Projet info\\Jeu du Pendu\\Jeu-du-Pendu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\socis\\AppData\\Roaming\\NuGet\\NuGet.Config"
