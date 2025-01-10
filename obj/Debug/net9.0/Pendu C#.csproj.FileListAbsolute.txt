@@ -13,3 +13,18 @@ C:\Users\socis\Documents\Projet info\Pendu C#\obj\Debug\net9.0\Pendu C#.pdb
 C:\Users\socis\Documents\Projet info\Pendu C#\obj\Debug\net9.0\Pendu C#.genruntimeconfig.cache
 C:\Users\socis\Documents\Projet info\Pendu C#\obj\Debug\net9.0\ref\Pendu C#.dll
 C:\Users\socis\Documents\Projet info\Pendu C#\obj\Debug\net9.0\Pendu C#.sourcelink.json
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\bin\Debug\net9.0\Pendu C#.exe
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\bin\Debug\net9.0\Pendu C#.deps.json
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\bin\Debug\net9.0\Pendu C#.runtimeconfig.json
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\bin\Debug\net9.0\Pendu C#.dll
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\bin\Debug\net9.0\Pendu C#.pdb
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.AssemblyInfoInputs.cache
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.AssemblyInfo.cs
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.csproj.CoreCompileInputs.cache
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.sourcelink.json
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.dll
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\refint\Pendu C#.dll
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.pdb
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\Pendu C#.genruntimeconfig.cache
+C:\Users\socis\Documents\Projet info\Jeu du Pendu\Jeu-du-Pendu\obj\Debug\net9.0\ref\Pendu C#.dll
