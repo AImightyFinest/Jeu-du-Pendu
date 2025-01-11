@@ -32,4 +32,5 @@ Le nombre d'erreurs restantes et les lettres déjà essayées sont également af
 Fin du jeu :
 
 Victoire : L'utilisateur a deviné toutes les lettres du mot.
+
 Défaite : Les vies sont écoulées et le jeu s'arrête.
