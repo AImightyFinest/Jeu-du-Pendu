@@ -30,5 +30,5 @@ Le mot partiellement découvert (avec les lettres trouvées) est affiché.
 Le nombre d'erreurs restantes et les lettres déjà essayées sont également affichés.
 
 Fin du jeu :
-    Victoire : L'utilisateur a deviné toutes les lettres du mot.
-    Défaite : Les vies sont écoulées et le jeu s'arrête.
+Victoire : L'utilisateur a deviné toutes les lettres du mot.
+Défaite : Les vies sont écoulées et le jeu s'arrête.
