@@ -1,12 +1,12 @@
-Jeu du Pendu en C#
+#Jeu du Pendu en C#
 
-DESCRIPTION
+##DESCRIPTION
 
 Ce projet implémente le célèbre jeu du pendu dans un programme console en C#. Le but du jeu est de deviner un mot secret en proposant des lettres une par une avant que le nombre maximal d'erreurs ne soit atteint.
 
 Le jeu est conçu pour être simple, interactif et amusant, et peut être utilisé pour s'exercer en orthographe ou simplement pour se divertir.
 
-FONCTIONNALITES
+##FONCTIONNALITES
 
     Choix du mot secret :
 
@@ -22,7 +22,7 @@ FONCTIONNALITES
     L'utilisateur gagne s'il devine le mot avant d'épuiser tous ses essais.
     L'utilisateur perd si le nombre maximal d'erreurs est atteint.
 
-FONCTIONNEMENT
+##FONCTIONNEMENT
 
     Étapes du jeu :
     Vous choisissez un mot secret.
