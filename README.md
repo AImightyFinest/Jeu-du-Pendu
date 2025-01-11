@@ -15,8 +15,10 @@ Affichage interactif : Le mot à deviner est affiché sous forme de tirets (_ _ 
 Gestion des erreurs : Chaque lettre incorrecte réduit le nombre d'essais restants.
 
 Conditions de victoire et défaite :
-    L'utilisateur gagne s'il devine le mot avant d'épuiser tous ses essais.
-    L'utilisateur perd si le nombre maximal d'erreurs est atteint.
+    
+L'utilisateur gagne s'il devine le mot avant d'épuiser tous ses essais.
+
+L'utilisateur perd si le nombre maximal d'erreurs est atteint.
 
 ## FONCTIONNEMENT
 
